@@ -1,0 +1,18 @@
+Heinrich Gottberg Code Review of Nicholas Chapman-Miller Lab 3
+
+Is the code generally readable and well-documented?
+
+  Yes, there are lots of comments and everything is very neat. Great code.
+
+Did you find any software defects?
+
+  No true defects, everything worked as expected.  
+
+What was one way that their solution differed from yours?
+
+  Nicholas included his whole database on one page as I used multiple pages.
+
+Do you have any other constructive comments for the author?
+
+  I would make labels a little bit clearer as well as showing the default options
+  of the buttons and text boxes. The pictures were a really great touch! Good work.
