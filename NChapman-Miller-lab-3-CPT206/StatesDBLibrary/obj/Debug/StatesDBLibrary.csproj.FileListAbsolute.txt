@@ -4,3 +4,9 @@ C:\Users\thesh\source\repos\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Deb
 C:\Users\thesh\source\repos\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.csproj.CoreCompileInputs.cache
 C:\Users\thesh\source\repos\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.dll
 C:\Users\thesh\source\repos\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.pdb
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\bin\Debug\StatesDBLibrary.dll
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\bin\Debug\StatesDBLibrary.pdb
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.csproj.AssemblyReference.cache
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.dll
+C:\Users\Shawn\Desktop\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\StatesDBLibrary\obj\Debug\StatesDBLibrary.pdb
